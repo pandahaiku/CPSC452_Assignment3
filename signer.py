@@ -41,8 +41,6 @@ def digSig(sigKey, string):
 
 	# TODO: return the signature of the file
 	signature = sigKey.sign(string, '')
-	print("FUCKLOOOOOL")
-	print signature[:1]
 	return signature
 
 ##########################################################
