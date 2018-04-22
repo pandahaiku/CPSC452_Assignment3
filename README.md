@@ -3,13 +3,13 @@ Assignemnt 3 for CPSC 452: Cryptography - Utilization of SHA512 integrity checki
 
 
 Team Members:
-Alan Adame          aadame4@csu.fullerton.edu
+    Alan Adame          aadame4@csu.fullerton.edu
 
-Douglas Galm        douglasgalm@csu.fullerton.edu
+   Douglas Galm        douglasgalm@csu.fullerton.edu
 
-Johnson Lien        johnsonlien95@csu.fullerton.edu
+   Johnson Lien        johnsonlien95@csu.fullerton.edu
 
-Michael Lindwall    michaellindwall@csu.fullerton.edu
+    Michael Lindwall    michaellindwall@csu.fullerton.edu
 
 
 
